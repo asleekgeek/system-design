@@ -7,14 +7,14 @@ Contributions are welcome!
 
 ## Bug Reports
 
-For bug reports or requests [submit an issue](https://github.com/bojanskr/system-design-primer/issues).
+For bug reports or requests [submit an issue](https://github.com/donnemartin/system-design-primer/issues).
 
 ## Pull Requests
 
 The preferred way to contribute is to fork the
-[main repository](https://github.com/bojanskr/system-design-primer) on GitHub.
+[main repository](https://github.com/donnemartin/system-design-primer) on GitHub.
 
-1. Fork the [main repository](https://github.com/bojanskr/system-design-primer).  Click on the 'Fork' button near the top of the page.  This creates a copy of the code under your account on the GitHub server.
+1. Fork the [main repository](https://github.com/donnemartin/system-design-primer).  Click on the 'Fork' button near the top of the page.  This creates a copy of the code under your account on the GitHub server.
 
 2. Clone this copy to your local disk:
 
@@ -54,7 +54,7 @@ See [Translations](TRANSLATIONS.md).
 
 * Changes to content should be made to the English version first, and then translated to each other language.
 * Changes that improve translations should be made directly on the file for that language. Pull requests should only modify one language at a time.
-* Submit a pull request with changes to the file in that language. Each language has a maintainer, who reviews changes in that language. Then the primary maintainer [@bojanskr](https://github.com/bojanskr) merges it in.
+* Submit a pull request with changes to the file in that language. Each language has a maintainer, who reviews changes in that language. Then the primary maintainer [@donnemartin](https://github.com/donnemartin) merges it in.
 * Prefix pull requests and issues with language codes if they are for that translation only, e.g. "es: Improve grammar", so maintainers can find them easily.
 * Tag the translation maintainer for a code review, see the list of [translation maintainers](TRANSLATIONS.md).
     * You will need to get a review from a native speaker (preferably the language maintainer) before your pull request is merged.
